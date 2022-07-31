@@ -1,0 +1,6 @@
+#+TITLE: Readme
+
+Sometimes Firefox delete profiles.ini file and updates it without full list of your profiles
+usually it happens when you have low harddrive space or unexpected reboot or restart.
+
+This python script is to recover **profiles.ini** from directory list inside **~/.mozilla/firefox** directory
